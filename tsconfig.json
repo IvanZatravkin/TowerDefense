@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "experimentalDecorators": true,
+    "module": "ESNext",
+    "target": "ES2020",
+    "sourceMap": true,
+    "strict": true,
+    "jsx": "react",
+    "allowSyntheticDefaultImports": true,
+    "moduleResolution": "Node",
+    "lib": ["ESNext", "DOM"],
+    "baseUrl": "./src"
+  },
+  "exclude": ["node_modules"]
+}
